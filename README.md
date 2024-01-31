@@ -1,5 +1,5 @@
 # CDU/CSU in Their New Role as Opposition - Using Populist Communication as a Mainstream Party
-Analysis of social media data from Twitter conducted as research project for the course "Computational Analysis of Communication" at the University of Mannheim.
+Analysis of social media data from Twitter conducted as research project for the course "Computational Analysis of Communication" at the University of Mannheim in the fall semester 2022.
 
 ## Abstract
 
