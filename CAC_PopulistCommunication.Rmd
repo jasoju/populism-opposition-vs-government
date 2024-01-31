@@ -39,7 +39,7 @@ knitr::opts_chunk$set(cache=TRUE,
 
 # Data and Methods
 
-In order to test the presented hypotheses, social media data from Twitter and a dictionary-based measurement of populist communication were used. Tweets from relevant politicians of the CDU and the CSU were collected from a two year period frame surrounding the German federal election on the 26 September 2021. To analyze the collected data, the dictionary by @grundl_populist_2022 was applied. 
+In order to test the presented hypotheses, social media data from Twitter and a dictionary-based measurement of populist communication were used. Tweets from relevant politicians of the CDU and the CSU were collected from a two year period frame surrounding the German federal election on the 26 September 2021.
 
 ```{r packages, message = FALSE, warning = FALSE}
 library(rtweet)
