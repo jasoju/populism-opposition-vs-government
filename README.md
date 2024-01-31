@@ -1,2 +1,6 @@
-# populism-opposition-vs-government
-Analysis of social media data from Twitter conducted as research project for the course "Computational Analysis of Communication" at the University of Mannheim
+# CDU/CSU in Their New Role as Opposition - Using Populist Communication as a Mainstream Party
+Analysis of social media data from Twitter conducted as research project for the course "Computational Analysis of Communication" at the University of Mannheim.
+
+## Abstract
+
+In this analysis the CDU/CSU Parliamentary Group was used as a case to analyze how the degree of populist communication differs between being in government or in opposition, using social media data from Twitter and a dictionary-based measurement of populist communication. Addition ally, it was studied how the potential change in populist communication influenced the popularity of posts on social media. It was found that populist tweets were more likely when in opposition then when in government, resulting in a more populist communication after the federal election in 2021. As expected, there were no differences in the degree of populist communication between the CDU and the CSU. When analyzing the popularity cues of tweets, it was found that populist tweets received a higher amount of popularity cues than non-populist tweets. Based on this result, the party’s strategical change in populist communication on Twitter can be considered successful. However, data collection was constricted due to restrictions of the Twitter API which might limit the informative value of this analysis.
